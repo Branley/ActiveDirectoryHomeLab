@@ -19,9 +19,9 @@ In this lab, I learned to create an Active Directory home lab environment using 
 
 <p align="center">
 Visio Diagram of Home Lab <br/>
+This diagram gives a visualization of what is going to be created and technologies needed for this home lab.
 <img src="https://i.imgur.com/hmTIpkJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-  This diagram gives a visualization of what is going to be created and technologies needed for this home lab.
 <br />
 <br />
 1. Created domain controller  :  <br/>
