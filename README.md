@@ -36,7 +36,7 @@ This diagram gives a visualization of what is going to be created and technologi
 <img src="https://i.imgur.com/FUgpAk1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>4. Login in with domain created <br/>
+<b>4. Login with domain created <br/>
 <img src="https://i.imgur.com/WwPsGhx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -44,7 +44,7 @@ This diagram gives a visualization of what is going to be created and technologi
 <img src="https://i.imgur.com/Il54LzG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>6. Organizational unit</b> <br/>
+<b>6. Creating Organizational unit</b> <br/>
 <img src="https://i.imgur.com/DgMApSt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
@@ -54,7 +54,7 @@ This diagram gives a visualization of what is going to be created and technologi
 <img src="https://i.imgur.com/MSftd7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>8. Adding account to admin  :</b>  <br/>
+<b>8. Adding account to admin group :</b>  <br/>
 <img src="https://i.imgur.com/r3EtQry.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
